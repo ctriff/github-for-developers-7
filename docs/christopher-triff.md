@@ -6,7 +6,7 @@ Christopher Triff
 **Location**
 Edmonton
 
-**FavoriteFood**
+**Favorite Food**
 Sashimi
 
 **Hobby**
