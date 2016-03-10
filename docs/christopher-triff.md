@@ -11,3 +11,6 @@ Sashimi
 
 **Hobby**
 Running
+
+**Favorite Color**
+Green
