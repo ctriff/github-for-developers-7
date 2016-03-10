@@ -1,13 +1,13 @@
 ### Introduction ###
 
-** Name: **
+**Name**
 Christopher Triff
 
-** Location: **
+**Location**
 Edmonton
 
-** Favorite Food **
+**FavoriteFood **
 Sashimi
 
-** Hobby **
+**Hobby**
 Running
