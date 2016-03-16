@@ -14,3 +14,6 @@ Running
 
 **Favorite Color**
 Green
+
+**School**
+University of Alberta
